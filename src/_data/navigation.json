@@ -1,17 +1,22 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "the gallery",
       "url": "/",
       "external": false
     },
     {
-      "text": "GitHub",
+      "text": "artists",
       "url": "https://github.com/andy-piccalilli/hylia",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "follow us",
+      "url": "/contact",
+      "external": false
+    }
+     {
+      "text": "contact",
       "url": "/contact",
       "external": false
     }
